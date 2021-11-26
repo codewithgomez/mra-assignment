@@ -1,0 +1,15 @@
+{
+    "name": "chisomokasenda/htdocs",
+    "authors": [
+        {
+            "name": "Gomezgani Walumbe",
+            "email": "gowalumbe@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "app\\":"./"
+        }
+    },
+    "require": {}
+}
